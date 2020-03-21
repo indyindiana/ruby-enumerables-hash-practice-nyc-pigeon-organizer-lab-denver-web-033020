@@ -13,5 +13,6 @@ def nyc_pigeon_organizer(data)
       end 
     end 
   end
+  pigeons
   # write your code here!
 end
